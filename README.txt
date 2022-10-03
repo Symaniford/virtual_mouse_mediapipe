@@ -23,5 +23,5 @@ Click "CLICK MODE" and (CURSOR MOVE is still working) :
 PAY ATTENTION
 Better to check if virtual_mouse.exe are running after you close the window because we are not good programmers XD. Meanwhile when it comes to copyright we are not so familiar so there is not any agreement among the files. If someone knows that pls tell us.
 
-github :virtual_mouse-opt_sci_tech
+github :virtual_mouse
 
