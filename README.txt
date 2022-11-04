@@ -21,7 +21,7 @@ Click "CLICK MODE" and (CURSOR MOVE is still working) :
 	There is text below the image showing last mouse event.
 
 PAY ATTENTION
-Better to check if virtual_mouse.exe are running after you close the window because we are not good programmers XD. Meanwhile when it comes to copyright we are not so familiar so there is not any agreement among the files. If someone knows that pls tell us.
+Better to check if virtual_mouse.exe are running after you close the window.
 
 github :virtual_mouse
 
